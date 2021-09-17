@@ -1,0 +1,5 @@
+transformers==4.5.1
+sacrebleu==1.5.1
+spacy==2.3.5
+torch==1.8.1
+sentencepiece==0.1.95
